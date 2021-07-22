@@ -1,0 +1,29 @@
+
+
+    .bg{
+    background-color:#006A4E;
+    border-radius:6px;
+    border:0;
+    width:100px;
+    height:50px;
+    cursor:pointer;
+    padding:0;
+    transform:translateY(-6px);
+
+
+
+    }
+    .fg{
+        display:block;
+        font-size:20px;
+        font-weight:bold;
+        background-color:#018749;
+        color:white;
+        padding:13px 0px;
+        transform: translateY(-6px);
+        border-radius:6px;
+        font-family:OCR A Std, monospace;
+    }
+    .bg:active .fg{
+    transform:translateY(0px);
+    }
