@@ -1,0 +1,23 @@
+ .front{
+    width:200px;
+    height:200px;
+    background-color:#00563B;
+    transform:translateX(615px);
+  }
+  
+  .top{
+    width:200px;
+    height:50px;
+    background-color:#006A4E;
+    transform:skewX(-60deg);
+  }
+
+  .side{
+    width:87px;
+    height:200px;
+    float:right;
+    background-color:#1B4D3E;
+    transform:skewY(-30deg);
+    margin-right:619px;
+    margin-top:-25px;
+  }
